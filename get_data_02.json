@@ -11,6 +11,18 @@
         },
         {
             "edad":45
+        },
+        {
+            "localidad":{
+                "calle":{
+                    "nombre":"antofagasta",
+                    "numero":2739
+                },
+                {
+                    "ciudad":"los alcauciles",
+                    "pais":"moravia"
+                }
+            }
         }
     ]
 }
