@@ -18,11 +18,9 @@
                         "nombre":"antofagasta",
                         "numero":2739
                     },
-                    {
-                        "ciudad":"losalcauciles",
-                        "pais":"moravia"
-                    }
-            }
+                    "ciudad":"los alcauciles",
+                    "pais":"moravia"
+                }
         }
     ]
 }
