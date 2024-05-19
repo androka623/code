@@ -1,12 +1,13 @@
 {
-  "persona":[
-    {
-      "sexo":"masculino"
-    },
-    {
-      "nombre":{
-        "nombredepila":"alberto","apellido":"girardo"
-               }
-    }
-             ]
+	"persona":[
+			{
+				"sexo":"masculino"
+			},
+			{
+				"nombre":{
+					"nombredepila":"alberto",
+					"apellido":"girardo"
+				}
+			}
+	]
 }
