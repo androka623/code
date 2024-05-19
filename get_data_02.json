@@ -14,14 +14,14 @@
         },
         {
             "localidad":{
-                "calle":{
-                    "nombre":"antofagasta",
-                    "numero":2739
-                },
-                {
-                    "ciudad":"los alcauciles",
-                    "pais":"moravia"
-                }
+                    "calle":{
+                        "nombre":"antofagasta",
+                        "numero":2739
+                    },
+                    {
+                        "ciudad":"losalcauciles",
+                        "pais":"moravia"
+                    }
             }
         }
     ]
